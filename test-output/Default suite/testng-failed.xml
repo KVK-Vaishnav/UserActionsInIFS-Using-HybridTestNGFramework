@@ -3,20 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.useractionsinifs.testCases.UserCreationTest">
+      <class name="com.useractionsinifs.testCases.LoginTests">
         <methods>
-          <include name="createUserTest"/>
           <include name="initializeDriver"/>
           <include name="tearDown"/>
+          <include name="invalidLoginTest"/>
+          <include name="validLoginTest"/>
         </methods>
-      </class> <!-- com.useractionsinifs.testCases.UserCreationTest -->
-      <class name="com.useractionsinifs.testCases.UserCopyTest">
-        <methods>
-          <include name="copyUserTest"/>
-          <include name="initializeDriver"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- com.useractionsinifs.testCases.UserCopyTest -->
+      </class> <!-- com.useractionsinifs.testCases.LoginTests -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

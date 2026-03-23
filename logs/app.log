@@ -19552,3 +19552,47 @@ Session ID: ce983fdab0173258bed716f8a9d777a8
 2026-03-19 21:14:46.240 [main] INFO  com.useractionsinifs.abstractComponents.AbstractComponents - User is not logged in or login page is displayed
 2026-03-19 21:14:46.240 [main] INFO  com.useractionsinifs.testComponents.BaseTest - Closing WebDriver session
 2026-03-19 21:14:46.372 [main] INFO  com.useractionsinifs.resources.ExtentReportsManager - Flushing ExtentReports
+2026-03-19 23:34:27.348 [main] INFO  com.useractionsinifs.resources.ExtentReportsManager - ExtentReports initialized. Report will be saved at: C:\Users\vkyama\eclipse-workspace\UserActionsInIFS-Using-HybridTestNGFramework-main\reports\TestReport_20260319_233427.html
+2026-03-19 23:34:30.804 [main] INFO  com.useractionsinifs.testComponents.BaseTest - Executing test teardown
+2026-03-19 23:34:30.805 [main] INFO  com.useractionsinifs.abstractComponents.AbstractComponents - Checking if user is logged in
+2026-03-19 23:34:30.812 [main] INFO  com.useractionsinifs.abstractComponents.AbstractComponents - Switched to main content for logout
+2026-03-19 23:34:30.812 [main] INFO  com.useractionsinifs.abstractComponents.AbstractComponents - Waiting for shadow DOM element: document.querySelector("#osp-nav-user-profile").shadowRoot.querySelector("button")
+2026-03-19 23:34:51.275 [main] ERROR com.useractionsinifs.abstractComponents.AbstractComponents - Timeout waiting for shadow DOM element: document.querySelector("#osp-nav-user-profile").shadowRoot.querySelector("button")
+2026-03-19 23:34:51.276 [main] INFO  com.useractionsinifs.abstractComponents.AbstractComponents - User is not logged in or login page is displayed
+2026-03-19 23:34:51.276 [main] INFO  com.useractionsinifs.testComponents.BaseTest - Closing WebDriver session
+2026-03-19 23:34:54.010 [main] INFO  com.useractionsinifs.testComponents.BaseTest - Executing test teardown
+2026-03-19 23:34:54.010 [main] INFO  com.useractionsinifs.abstractComponents.AbstractComponents - Checking if user is logged in
+2026-03-19 23:34:54.015 [main] INFO  com.useractionsinifs.abstractComponents.AbstractComponents - Switched to main content for logout
+2026-03-19 23:34:54.015 [main] INFO  com.useractionsinifs.abstractComponents.AbstractComponents - Waiting for shadow DOM element: document.querySelector("#osp-nav-user-profile").shadowRoot.querySelector("button")
+2026-03-19 23:35:14.162 [main] ERROR com.useractionsinifs.abstractComponents.AbstractComponents - Timeout waiting for shadow DOM element: document.querySelector("#osp-nav-user-profile").shadowRoot.querySelector("button")
+2026-03-19 23:35:14.164 [main] INFO  com.useractionsinifs.abstractComponents.AbstractComponents - User is not logged in or login page is displayed
+2026-03-19 23:35:14.164 [main] INFO  com.useractionsinifs.testComponents.BaseTest - Closing WebDriver session
+2026-03-19 23:35:15.745 [main] INFO  com.useractionsinifs.testComponents.BaseTest - Executing test teardown
+2026-03-19 23:35:15.745 [main] INFO  com.useractionsinifs.abstractComponents.AbstractComponents - Checking if user is logged in
+2026-03-19 23:35:15.751 [main] INFO  com.useractionsinifs.abstractComponents.AbstractComponents - Switched to main content for logout
+2026-03-19 23:35:15.751 [main] INFO  com.useractionsinifs.abstractComponents.AbstractComponents - Waiting for shadow DOM element: document.querySelector("#osp-nav-user-profile").shadowRoot.querySelector("button")
+2026-03-19 23:35:35.960 [main] ERROR com.useractionsinifs.abstractComponents.AbstractComponents - Timeout waiting for shadow DOM element: document.querySelector("#osp-nav-user-profile").shadowRoot.querySelector("button")
+2026-03-19 23:35:35.960 [main] INFO  com.useractionsinifs.abstractComponents.AbstractComponents - User is not logged in or login page is displayed
+2026-03-19 23:35:35.960 [main] INFO  com.useractionsinifs.testComponents.BaseTest - Closing WebDriver session
+2026-03-19 23:35:38.200 [main] INFO  com.useractionsinifs.testComponents.BaseTest - Executing test teardown
+2026-03-19 23:35:38.200 [main] INFO  com.useractionsinifs.abstractComponents.AbstractComponents - Checking if user is logged in
+2026-03-19 23:35:38.210 [main] INFO  com.useractionsinifs.abstractComponents.AbstractComponents - Switched to main content for logout
+2026-03-19 23:35:38.212 [main] INFO  com.useractionsinifs.abstractComponents.AbstractComponents - Waiting for shadow DOM element: document.querySelector("#osp-nav-user-profile").shadowRoot.querySelector("button")
+2026-03-19 23:35:58.520 [main] ERROR com.useractionsinifs.abstractComponents.AbstractComponents - Timeout waiting for shadow DOM element: document.querySelector("#osp-nav-user-profile").shadowRoot.querySelector("button")
+2026-03-19 23:35:58.520 [main] INFO  com.useractionsinifs.abstractComponents.AbstractComponents - User is not logged in or login page is displayed
+2026-03-19 23:35:58.520 [main] INFO  com.useractionsinifs.testComponents.BaseTest - Closing WebDriver session
+2026-03-19 23:36:00.650 [main] INFO  com.useractionsinifs.testComponents.BaseTest - Executing test teardown
+2026-03-19 23:36:00.650 [main] INFO  com.useractionsinifs.abstractComponents.AbstractComponents - Checking if user is logged in
+2026-03-19 23:36:00.705 [main] INFO  com.useractionsinifs.abstractComponents.AbstractComponents - Switched to main content for logout
+2026-03-19 23:36:00.705 [main] INFO  com.useractionsinifs.abstractComponents.AbstractComponents - Waiting for shadow DOM element: document.querySelector("#osp-nav-user-profile").shadowRoot.querySelector("button")
+2026-03-19 23:36:21.139 [main] ERROR com.useractionsinifs.abstractComponents.AbstractComponents - Timeout waiting for shadow DOM element: document.querySelector("#osp-nav-user-profile").shadowRoot.querySelector("button")
+2026-03-19 23:36:21.139 [main] INFO  com.useractionsinifs.abstractComponents.AbstractComponents - User is not logged in or login page is displayed
+2026-03-19 23:36:21.139 [main] INFO  com.useractionsinifs.testComponents.BaseTest - Closing WebDriver session
+2026-03-19 23:36:22.606 [main] INFO  com.useractionsinifs.testComponents.BaseTest - Executing test teardown
+2026-03-19 23:36:22.606 [main] INFO  com.useractionsinifs.abstractComponents.AbstractComponents - Checking if user is logged in
+2026-03-19 23:36:22.623 [main] INFO  com.useractionsinifs.abstractComponents.AbstractComponents - Switched to main content for logout
+2026-03-19 23:36:22.623 [main] INFO  com.useractionsinifs.abstractComponents.AbstractComponents - Waiting for shadow DOM element: document.querySelector("#osp-nav-user-profile").shadowRoot.querySelector("button")
+2026-03-19 23:36:43.123 [main] ERROR com.useractionsinifs.abstractComponents.AbstractComponents - Timeout waiting for shadow DOM element: document.querySelector("#osp-nav-user-profile").shadowRoot.querySelector("button")
+2026-03-19 23:36:43.123 [main] INFO  com.useractionsinifs.abstractComponents.AbstractComponents - User is not logged in or login page is displayed
+2026-03-19 23:36:43.124 [main] INFO  com.useractionsinifs.testComponents.BaseTest - Closing WebDriver session
+2026-03-19 23:36:43.765 [main] INFO  com.useractionsinifs.resources.ExtentReportsManager - Flushing ExtentReports

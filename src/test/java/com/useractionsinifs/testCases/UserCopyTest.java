@@ -31,7 +31,7 @@ public class UserCopyTest extends BaseTest {
         securityPageUsers = landingPage.navigateToComponent("Security OS");
         Thread.sleep(8000);
         
-        // Force frame switch before performing actions
+        // Force frame switch before performing actionss
         securityPageUsers.enterFirstAvailableIframe();
         Thread.sleep(2000);
         
@@ -39,7 +39,7 @@ public class UserCopyTest extends BaseTest {
         String baseUserEmail = UserCreationTest.createdUserEmail;
         logger.info("Using created user as base for copy: " + baseUserEmail);
         
-        // Copy user - this creates a new user with random data
+        // Copy user - this creates new user with random data
         String copiedUserEmail = securityPageUsers.copyUser(baseUserEmail);
         logger.info("User copied successfully and new Email is" + copiedUserEmail);
         Thread.sleep(3000);
